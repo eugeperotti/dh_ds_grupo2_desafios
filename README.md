@@ -1,7 +1,9 @@
 # Interactuar con este repo.
 ## La primera vez.
 Abrir Git Bash en la carpeta que va a contener el código y ejecutar:
-```git clone https://github.com/manuperotti/dh_ds_grupo2_desafio1.git```
+```
+git clone https://github.com/manuperotti/dh_ds_grupo2_desafio1.git
+```
 Copiar la notebook al directorio del repositorio, que debería llamarse dh_ds_grupo2_desafio1. 
 Parados en directorio del repositorio (dh_ds_grupo2_desafio1), ejecutar por bash:
 ```
