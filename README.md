@@ -8,13 +8,13 @@ Copiar la notebook al directorio del repositorio, que debería llamarse dh_ds_gr
 Parados en directorio del repositorio (dh_ds_grupo2_desafio1), ejecutar por bash:
 ```
 git add .
-git commit -m "Nombre y descripción del cambio"
+git commit -m "Descripción del cambio"
 git push -u origin master
 ```
 ## Por cada vez que lo actualizan.
 Abrir el Git Bash en el repositorio dh_ds_grupo2_desafio1 y ejecutar:
 ```
-git pull https://github.com/[usuario]/dh_ds_grupo2_desafio1.git
+git pull https://github.com/manuperotti/dh_ds_grupo2_desafio1.git
 git commit -m "Nombre cambios en la notebook"
 git push -u origin master
 ```
