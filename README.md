@@ -1,6 +1,11 @@
 # Interactuar con este repo.
 ## La primera vez.
 Abrir Git Bash en la carpeta que va a contener el código y ejecutar:
+
+0. Si nunca usaron Git en la computadora, primero hay que configurar usuario de Git:
+```
+git config --global user.email "you@example.com"
+```
 1. Primero hay que clonar el repositorio master:
 ```
 git clone https://github.com/manuperotti/dh_ds_grupo2_desafio1.git
