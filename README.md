@@ -1,15 +1,12 @@
 # Interactuar con este repo.
 ## La primera vez.
 Abrir Git Bash en la carpeta que va a contener el código y ejecutar:
+1. Primero hay que clonar el repositorio master:
 ```
 git clone https://github.com/manuperotti/dh_ds_grupo2_desafio1.git
 ```
-Copiar la notebook al directorio del repositorio, que debería llamarse dh_ds_grupo2_desafio1. 
-Parados en directorio del repositorio (dh_ds_grupo2_desafio1), ejecutar por bash:
-1. Primero hay que ver si hay cambios en el master. Con este comando se actualiza el repositorio local:
-```
-git pull https://github.com/manuperotti/dh_ds_grupo2_desafio1.git
-```
+Copiar la notebook al directorio del repositorio, que debería llamarse **dh_ds_grupo2_desafio1**. 
+Parados dentro del repositorio, ejecutar por bash:
 2. Después hay que agregar el directorio completo sobre el que están parados:
 ```
 git add .
