@@ -7,6 +7,7 @@ git clone https://github.com/manuperotti/dh_ds_grupo2_desafio1.git
 ```
 Copiar la notebook al directorio del repositorio, que debería llamarse **dh_ds_grupo2_desafio1**. 
 Parados dentro del repositorio, ejecutar por bash:
+
 2. Después hay que agregar el directorio completo sobre el que están parados:
 ```
 git add .
