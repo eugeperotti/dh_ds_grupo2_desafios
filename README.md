@@ -43,4 +43,10 @@ git add [archivo]
 ```
 git push -u origin master
 ```
+## En caso de errores, para forzar el download.
 
+Estos comandos actualizan todos los archivos del master en el local:
+```
+git fetch --all
+git reset --hard origin/master
+```
